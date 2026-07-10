@@ -25,7 +25,7 @@ Demo en producción: https://medicare-app-ai.vercel.app/
 
 | Rol | Email | Contraseña |
 |-----|-------|-----------|
-| Administrador | admin@medicare.com | Admin123! |
+| Administrador | admin@medicare.com | Admin1234 |
 | Doctor | doctor@medicare.com | doctor1234 |
 | Paciente | luis@gmail.com | Luis_0402 |
 
