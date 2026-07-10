@@ -5,6 +5,20 @@ Plataforma de gestión médica con inteligencia artificial para clínicas y hosp
 Demo en producción: https://medicare-app-ai.vercel.app/
 
 ---
+## Landing 
+<img width="1838" height="902" alt="Captura de pantalla 2026-07-10 002837" src="https://github.com/user-attachments/assets/ef394927-44b4-46a9-a0d6-498513135e9e" />
+
+## Paciente
+<img width="1882" height="882" alt="Captura de pantalla 2026-07-10 003227" src="https://github.com/user-attachments/assets/2071569e-4113-463a-9f24-07c6ce58ccd1" />
+
+## Doctor
+<img width="1908" height="906" alt="Captura de pantalla 2026-07-10 003733" src="https://github.com/user-attachments/assets/2ad1b705-d6f4-4fee-b36b-4affba153bc6" />
+
+## Administrador
+<img width="1908" height="906" alt="Captura de pantalla 2026-07-10 003733" src="https://github.com/user-attachments/assets/ceb8fef4-2a5a-4e5a-902b-e0b3e3404904" />
+
+## Asistente AI
+<img width="1897" height="882" alt="Captura de pantalla 2026-07-10 005037" src="https://github.com/user-attachments/assets/eeb4673d-7038-4710-a233-5c11e7d5bc73" />
 
 ---
 ## Acceso Credenciales
